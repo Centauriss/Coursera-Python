@@ -1,4 +1,1 @@
-n = int(input())
-m = int(input())
-k = int(input())
-if
+print(3 % 2)
